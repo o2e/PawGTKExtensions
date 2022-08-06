@@ -1,4 +1,6 @@
-## hello
+Paw Version 3.3.6 (Retail) 
+
+Build A3EA40 (3003006001)
 
 Hi, I'm writing an extension to improve the efficiency of using my Paw. But I have a strange problem, when I add DynamicValue in the Paw URL parm input box for the first time, his default value does not work. I close the DynamicValue popup without any input and the default value appears only when I click the DynamicValue blue block in the input box again. What should I do, please help me, thanks a lot!
 
